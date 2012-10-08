@@ -1,2 +1,3 @@
 testing merges in git and github
 coming from file1
+one new line on master
