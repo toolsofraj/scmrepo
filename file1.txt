@@ -1,0 +1,2 @@
+testing merges in git and github
+coming from file1
